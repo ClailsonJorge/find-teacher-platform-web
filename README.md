@@ -14,3 +14,11 @@ The page will reload if you make edits.
 You will also see any lint errors in the console.
 
 This project needs the backend that can be found in my repositories (find-teacher-platform-backend), please enjoy.
+
+
+
+Technologies used:
+  - ReactJS;
+  - typescript;
+  - axios;
+  - etc.
