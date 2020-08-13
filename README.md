@@ -1,4 +1,4 @@
-# find-teacher-platform-web
+# platform-find-teachers-web
 Project created at NLW # 2 by rocketseat, this is the web version.
 
 This project was bootstrapped with Create React App.
